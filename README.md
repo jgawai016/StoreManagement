@@ -1,0 +1,2 @@
+# StoreManagement
+Full Stack Project
